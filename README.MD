@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year Computer Science Engineering student at SJC Institute of Technology.<br><br>🔭 Currently working on Python, Linux, Docker, and AI-based projects.<br><br>🏆 NCC C-Certificate holder | National-level Bronze Medalist in Shooting | Football
+🎓 Computer Science Engineering graduate <br><br>🔭 Currently working on Python, Linux, Docker, and AI-based projects.<br><br>🏆 NCC C-Certificate holder | National-level Bronze Medalist in Shooting | Football
 
 
 ## 🌐 Socials:
