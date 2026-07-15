@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Computer Science Engineering graduate <br><br>🔭 Currently working on Python, Linux, Docker, and AI-based projects.<br><br>🏆 NCC C-Certificate holder | National-level Bronze Medalist in Shooting | Football
+🎓 Computer Science Engineering graduate <br><br>🔭 Entry-level Data Analyst with a B.E. in Computer Science Engineering and hands-on experience in SQL, Python, Power BI, and Excel. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and customer segmentation. Built data-driven projects in HR Analytics, E-Commerce Sales Analysis, and Customer Segmentation, transforming large datasets into actionable business insights. Strong analytical mindset with a passion for leveraging data to support business decisions and drive measurable outcomes.
+.<br><br>🏆 NCC C-Certificate holder | National-level Bronze Medalist in Shooting | Football
 
 
 ## 🌐 Socials:
