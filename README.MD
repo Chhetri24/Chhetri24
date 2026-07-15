@@ -1,22 +1,138 @@
-# 💫 About Me:
-🎓 Computer Science Engineering graduate <br><br>🔭 Entry-level Data Analyst with a B.E. in Computer Science Engineering and hands-on experience in SQL, Python, Power BI, and Excel. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and customer segmentation. Built data-driven projects in HR Analytics, E-Commerce Sales Analysis, and Customer Segmentation, transforming large datasets into actionable business insights. Strong analytical mindset with a passion for leveraging data to support business decisions and drive measurable outcomes.
-.<br><br>🏆 NCC C-Certificate holder | National-level Bronze Medalist in Shooting | Football
+```md
+# 💫 About Me
 
+<img align="right" alt="Data Analytics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd1a2o2MnV4ZWY2eWh4dm5sNmxkYXdjM2JvN2pkZWV0N3M4eHBrdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishal-chhetri-b95b4017b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:NISHALCHHETRI10@GMAIL.COM) 
+🎓 Computer Science Engineering Graduate (CGPA: 8.98/10)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+📊 Entry-Level Data Analyst with hands-on experience in SQL, Python, Power BI, Excel, and Data Visualization.
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chhetri24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📈 Skilled in:
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- KPI Reporting
+- Customer Segmentation (RFM)
+- Business Intelligence
+- Data Storytelling
 
+🔍 Built analytics projects across Retail, E-Commerce, and HR domains, transforming large datasets into actionable business insights.
 
-### ✍️ Quote of the day 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🏆 NCC C-Certificate Holder  
+🥉 National Bronze Medalist (Shooting)  
+⭐ Junior Under Officer (JUO)  
+⚽ Football Player
 
 ---
-[![](https://komarev.com/ghpvc/?username=Chhetri24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--THANKYOU -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishal-chhetri-b95b4017b)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishalchettri009@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chhetri24)
+
+---
+
+# 💻 Data Analytics Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Customer Segmentation Analysis (RFM)
+
+- Analyzed 541,909 retail transactions and 4,372 customers using Python, SQL, and Power BI.
+- Performed RFM segmentation to identify VIP, Loyal, Regular, and At-Risk customers.
+- Built an interactive dashboard to support customer retention and targeted marketing strategies.
+
+🔗 Repository: https://github.com/Chhetri24/customer-segmentation-analysis
+
+---
+
+### 🛒 E-Commerce Sales Analytics Dashboard
+
+- Developed an interactive Power BI dashboard analyzing $2.3M sales, 5,009 orders, and profit trends.
+- Created KPI cards, customer rankings, and category performance reports.
+- Delivered actionable business insights through data visualization.
+
+🔗 Repository: https://github.com/Chhetri24/ecommerce-sales-dashboard
+
+---
+
+### 👨‍💼 HR Analytics Dashboard
+
+- Analyzed 1,470 employee records using SQL, Python, and Power BI.
+- Performed EDA and attrition analysis across departments, job roles, age groups, and overtime categories.
+- Developed dashboards to support HR retention strategies.
+
+🔗 Repository: https://github.com/Chhetri24/HR-Analytics-Dashboard
+
+---
+
+# 📜 Certifications
+
+🏅 SQL (Intermediate) – HackerRank
+
+🏅 SQL (Basic) – HackerRank
+
+🏅 Deloitte Data Analytics Job Simulation – Forage
+
+🏅 Tata Data Visualisation: Empowering Business with Effective Insights – Forage
+
+🏅 JPMorgan Chase & Co. Excel Skills Job Simulation – Forage
+
+🏅 Python Essentials 1 & 2 – Cisco Networking Academy
+
+🏅 AWS Cloud Practitioner Essentials
+
+---
+
+# 🏆 Achievements
+
+🥉 National Bronze Medalist (Shooting), NCC
+
+⭐ Junior Under Officer (JUO), National Cadet Corps
+
+🎖 NCC C-Certificate Holder
+
+⚽ Football Team Captain
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Chhetri24&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chhetri24&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhetri24&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Chhetri24&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+### ✍️ Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Chhetri24&color=blueviolet&style=flat-square)
+
+### 📈 Turning Data into Decisions
+```
