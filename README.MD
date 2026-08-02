@@ -1,4 +1,5 @@
 
+
 # 💫 About Me
 
 <img align="right" alt="Data Analytics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd1a2o2MnV4ZWY2eWh4dm5sNmxkYXdjM2JvN2pkZWV0N3M4eHBrdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
